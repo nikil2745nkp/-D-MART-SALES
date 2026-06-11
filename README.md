@@ -1,8 +1,8 @@
-D-Mart Sales Dashboard | Power BI
+## D-Mart Sales Dashboard | Power BI
 
 An interactive Sales Analytics Dashboard built in Power BI to analyze D-Mart sales performance across different dimensions such as sales amount, profit, customers, categories, states, payment modes, and time periods.
 
-Key Features
+## Key Features
 📊 Sales Amount Analysis by State
 💰 Monthly Profit Tracking
 🛍️ Quantity Analysis by Product Category
@@ -11,13 +11,15 @@ Key Features
 📦 Profit Analysis by Sub-Category
 📅 Quarter-wise Filtering for Dynamic Insights
 🎯 Interactive Visualizations and KPI Monitoring
-Dashboard Insights
+
+## Dashboard Insights
 Maharashtra generated the highest sales amount among all states.
 Printers and Bookcases contributed the highest profit among sub-categories.
 Clothing category accounted for the largest share of quantity sold.
 COD was the most preferred payment mode.
 Monthly profit trends helped identify peak and low-performing months.
-Tools & Technologies
+
+## Tools & Technologies
 Power BI Desktop
 Data Modeling
 DAX (Data Analysis Expressions)
@@ -27,10 +29,9 @@ Business Value
 
 This dashboard helps stakeholders monitor sales performance, identify profitable product segments, understand customer purchasing behavior, and make data-driven business decisions.
 
-Project Preview
+## Project Preview
 
 Interactive dashboard showcasing:
-
 Sales Performance
 Profit Analysis
 Customer Insights
